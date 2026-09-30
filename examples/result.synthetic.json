@@ -1,0 +1,12 @@
+{
+  "synthetic": true,
+  "not_live_data": true,
+  "node_id": "N1",
+  "zone": "A",
+  "clip_id": "example-only",
+  "captured_at": null,
+  "label": "uncertain",
+  "confidence": null,
+  "model_version": null,
+  "inspection_status": "pending"
+}

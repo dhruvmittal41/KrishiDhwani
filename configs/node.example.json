@@ -1,0 +1,9 @@
+{
+  "node_id": "N1",
+  "zone": "A",
+  "gateway_url": "http://PI_LOCAL_IP:8000",
+  "microphone_pins": null,
+  "sample_rate_hz": null,
+  "clip_duration_ms": null,
+  "status": "configure-after-hardware-selection"
+}

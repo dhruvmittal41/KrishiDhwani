@@ -1,0 +1,12 @@
+{
+  "mode": "scaffold",
+  "model_path": null,
+  "confidence_threshold": null,
+  "retention_days": null,
+  "nodes": {
+    "N1": "A",
+    "N2": "B",
+    "N3": "C",
+    "N4": "D"
+  }
+}
